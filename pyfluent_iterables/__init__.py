@@ -3,6 +3,6 @@ See https://github.com/feynmanix/pyfluent-iterables/blob/main/README.md for more
 """
 
 # Version of the package
-__version__ = "2.0.0"
+__version__ = "2.0.1"
 
 from .fluent import fluent_dict, fluent_of, fluent, FluentIterable, FluentMapping  # noqa
